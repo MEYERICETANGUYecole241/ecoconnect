@@ -7,7 +7,7 @@ export default function Forum() {
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-6">Forum communautaire</h2>
         <p className="text-center text-gray-600 max-w-xl mx-auto mb-10">
-          Échangez avec d'autres membres, posez vos questions et partagez vos expériences.
+          Échangez avec d&apos;autres membres, posez vos questions et partagez vos expériences.
         </p>
 
         <div className="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-md">
@@ -26,7 +26,7 @@ export default function Forum() {
                   <span><i className="far fa-eye mr-1"></i> 145</span>
                 </div>
               </div>
-              <p className="mt-2 text-sm text-gray-600">Nous avons lancé une politique RSE dans notre entreprise mais avons du mal à impliquer les employés. Des retours d'expérience ?</p>
+              <p className="mt-2 text-sm text-gray-600">Nous avons lancé une politique RSE dans notre entreprise mais avons du mal à impliquer les employés. Des retours d&apos;expérience ?</p>
             </div>
 
             {/* Sujet 2 */}
@@ -38,13 +38,13 @@ export default function Forum() {
                   <span><i className="far fa-eye mr-1"></i> 98</span>
                 </div>
               </div>
-              <p className="mt-2 text-sm text-gray-600">Notre association cherche des partenaires techniques et financiers pour un projet de reforestation en Afrique de l'Ouest.</p>
+              <p className="mt-2 text-sm text-gray-600">Notre association cherche des partenaires techniques et financiers pour un projet de reforestation en Afrique de l&apos;Ouest.</p>
             </div>
 
             {/* Sujet 3 */}
             <div className="topic border-b pb-4">
               <div className="flex justify-between items-start">
-                <h4 className="font-medium text-green-700">Retour d'expérience : transition énergétique dans une PME</h4>
+                <h4 className="font-medium text-green-700">Retour d&apos;expérience : transition énergétique dans une PME</h4>
                 <div className="text-sm text-gray-500">
                   <span className="mr-2"><i className="far fa-comment mr-1"></i> 15</span>
                   <span><i className="far fa-eye mr-1"></i> 210</span>

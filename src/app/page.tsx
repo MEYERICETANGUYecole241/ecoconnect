@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>EcoConnect - Plateforme communautaire pour les acteurs de l'environnement</title>
+        <title>EcoConnect - Plateforme communautaire pour les acteurs de l&apos;environnement</title>
         <meta name="description" content="Plateforme communautaire pour les acteurs de l'environnement" />
       </Head>
 
